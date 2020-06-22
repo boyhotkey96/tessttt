@@ -1,0 +1,7 @@
+{"danhsach": [
+  { "khoahoc" : "Lập trình Android" },
+  { "khoahoc" : "Lập trình iOS" },
+  { "khoahoc" : "Lập trình PHP" },
+  { "khoahoc" : "Lập trình NodeJS" },
+  { "khoahoc" : "Lập trình Unity" }
+]}
